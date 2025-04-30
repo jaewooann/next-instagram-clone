@@ -4,15 +4,13 @@
 
 ## Material Tailwind CSS
 
-## Supabase
+## Supabase (supabase auth, supabase realtime)
 
 ## React Query
 
 ## Recoil (전역 상태관리 라이브러리)
 
 ## Typescript
-
-## react-intersection-observer (무한스크롤)
 
 # 개발 서버 시작
 
